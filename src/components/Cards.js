@@ -15,14 +15,14 @@ const cards = [
         id: 2,
         title: 'Card-slides',
         image: image2,
-        url:'https://faztweb.com'
+        url:''
 
     },
     {
         id: 3,
         title: 'Card-slides',
         image: image3,
-        url:'https://faztweb.com'
+        url:''
 
     }
 
